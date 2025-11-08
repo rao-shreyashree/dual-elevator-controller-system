@@ -2,7 +2,8 @@
 
 ## Project Overview
 The **Dual Elevator Controller System** is a Verilog-based digital design that manages two elevators operating within the same building.  
-It handles multiple simultaneous floor requests, optimizes elevator allocation, and includes **priority handling**, **emergency stops**, and **efficient dispatch scheduling** - ensuring smooth and conflict-free operation. This is our DDCO - Digital Design and Computer Organisation - mini project
+It handles multiple simultaneous floor requests, optimizes elevator allocation, and includes **priority handling**, **emergency stops**, and **efficient dispatch scheduling** - ensuring smooth and conflict-free operation. 
+This is our DDCO - Digital Design and Computer Organisation - mini project
 
 ---
 
