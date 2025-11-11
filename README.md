@@ -54,7 +54,7 @@ vvp system
 ```
 3. GTKWave for visualisation
 ```bash
-gtkwave system_waveform.vcd
+gtkwave complete_system.vcd
 ```
 
 
